@@ -1,1 +1,5 @@
+kittu<<<<<<< HEAD
 b1 file in master
+=======
+b1 file
+>>>>>>> first

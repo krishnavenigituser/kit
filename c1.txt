@@ -1,1 +1,5 @@
+kit<<<<<<< HEAD
 c1 in master 
+=======
+c1 file
+>>>>>>> first

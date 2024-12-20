@@ -1,1 +1,5 @@
+k<<<<<<< HEAD
 c3 file in master 
+=======
+c3 file 
+>>>>>>> first

@@ -1,1 +1,5 @@
+kit<<<<<<< HEAD
 b3 file in master
+=======
+b3 file
+>>>>>>> first
